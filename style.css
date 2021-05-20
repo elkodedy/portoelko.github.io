@@ -1,0 +1,84 @@
+body{
+    margin: auto;
+}
+.badan{
+    background-color: #11141B;
+    margin: auto;
+    padding: 35vh 0 2vh 0;
+    color:#fff;
+    font-family: 'Poppins';
+    text-align: center;
+}
+
+/* name */
+.name{
+    font-size: 50px;
+    padding: 3vh;
+}
+
+.sub_name{
+    padding: 3vh;
+    font-size: 25px;
+}
+
+.link{
+    color:#fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.link:hover{
+    transition: 0.2s;
+    text-decoration: underline;
+    color:rgb(173, 195, 255);
+}
+
+/* my work */
+.mywork{
+    padding: 20vh 0 5vh 0;
+    font-size: 40px;
+}
+
+.projects{
+    padding: 0 10vw;
+}
+
+.project{
+    color:#fff;
+    text-decoration: none;
+    font-size: 30px;
+    margin: 100px 1vw;
+}
+.project:hover{
+    text-decoration: none;
+    font-weight:bold;
+    color: #fff;
+    transition: 0.2s;
+    color: rgb(173, 195, 255);
+}
+
+/* find me */
+.findme{
+    font-size: 40px;
+    padding: 20vh 0 2vh 0;
+}
+
+.fa {
+    padding: 40px;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .fa:hover {
+    color:rgb(173, 195, 255);
+    transition: 0.2s;
+  }
+  
+
+  /* copyright */
+.copyright{
+    padding: 10vh 0 0 0;
+    font-size: 10px;
+    color: rgb(194, 194, 194);
+}
